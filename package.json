@@ -1,0 +1,15 @@
+{
+  "name": "my-fav-day",
+  "version": "1.0.0",
+  "description": "Birthday celebration website",
+  "private": true,
+  "scripts": {
+    "dev": "npx http-server",
+    "start": "npx http-server"
+  },
+  "keywords": [
+    "birthday"
+  ],
+  "author": "",
+  "license": "MIT"
+}
